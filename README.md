@@ -40,3 +40,4 @@ I'm a **results-oriented software developer** with nearly **3 years of experienc
 - 📧 chinbeis0705@gmail.com  
 
 🚀 **Open to remote opportunities in the US, Europe, and globally!**  
+//
