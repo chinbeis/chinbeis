@@ -27,9 +27,9 @@ I'm a **results-oriented software developer** with nearly **3 years of experienc
 - 🏢 **Corporate & Freelance Projects**: Delivered solutions that **boost online presence and revenue**.  
 
 ## 🔧 Tech Stack  
-**Languages**: Golang, Python, JavaScript, TypeScript, PHP  
-**Frameworks**: React.js, Next.js (App Router), Django  
-**Databases**: MongoDB, PostgreSQL  
+**Languages**: Golang, Python, JavaScript, TypeScript, PHP, HTML, CSS  
+**Frameworks**: React.js, Next.js (App Router), Django   
+**Databases**: MongoDB, PostgreSQL, MySQL  
 **Environments**: Node.js, Asterisk, Web3  
 
 ## 📈 GitHub Stats  
