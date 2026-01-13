@@ -1,42 +1,77 @@
-# 👋 Hi, I'm Chinbeis Zolsaikhan  
+# Hi, I'm Chinbeis 👋
 
-🚀 **Self-Taught Developer | Full-Stack & Back-End Engineer | Founder of Usuh Agency**  
+I'm a full-stack developer with a strong backend focus, currently working at a telephony and messaging company in Mongolia.  
+Most of my work is around **real-time systems, SaaS platforms, and third-party integrations**, but I’ve also worked on telephony, Web3, and corporate web platforms.
 
-I'm a **results-oriented software developer** with nearly **3 years of experience** in full-stack and back-end development. Passionate about building **scalable, high-performance applications**, I have successfully completed **30+ freelance projects** and worked on **corporate-level platforms**.  
+I’m self-taught, started with freelance work early on, and now mainly build production systems used by real businesses.
 
-## 💼 Work Experience  
+---
 
-### **Full-Stack Developer @ Onlime Network LLC (2023 - Present)**  
-- 🏢 **Corporate Experience**: Hands-on work in corporate project planning & teamwork.  
-- 🏗 **Web Development**: Built and maintained a full-stack web platform using **Next.js (App Router) and TypeScript**.  
-- ☎ **Telephony Integration**: Implemented a **routing SDK for phone calls using Asterisk**, improving communication processes.  
-- 🌐 **Web3 & Blockchain**: Contributed to an **NFT trading platform**, expanding expertise in decentralized applications.  
-- 🚀 **End-to-End Development**: Developed and deployed **a full-fledged corporate website** for company use.  
+## What I’m working on
 
-### **Founder & Developer @ Usuh Agency (2020 - Present)**  
-- 💼 Established a digital agency specializing in web development for local businesses.  
-- 🎯 Completed **30+ custom website solutions**, enhancing clients’ online presence and revenue.  
-- 🔍 Implemented **SEO & backend optimizations**, increasing client website traffic by **up to 20%**.  
-- 📱 Developed **responsive, user-friendly websites** tailored to clients' needs.  
+### Full-Stack Developer @ Onlime Network LLC (2023 – Present)
 
-## 💡 What I Do  
-- 🏗 **Full-Stack Development**: Building modern web applications with **Next.js, React, and TypeScript**.  
-- 🔌 **Back-End Engineering**: Working with **Golang, Python (Django), and PHP** for scalable systems.  
-- ☎ **Telephony & VoIP**: Implementing **Asterisk PBX** solutions for call routing and automation.  
-- 🌐 **Web3 & Blockchain**: Developed an **NFT trading platform**, gaining expertise in decentralized applications.  
-- 🏢 **Corporate & Freelance Projects**: Delivered solutions that **boost online presence and revenue**.  
+I work on **CallPro Social**, an omnichannel SaaS platform that allows businesses to manage multiple social messaging channels in one dashboard.
 
-## 🔧 Tech Stack  
-**Languages**: Golang, Python, JavaScript, TypeScript, PHP, HTML, CSS  
-**Frameworks**: React.js, Next.js (App Router), Django   
-**Databases**: MongoDB, PostgreSQL, MySQL  
-**Environments**: Node.js, Asterisk, Web3  
+What I’ve worked on here:
 
-## 📈 GitHub Stats  
-![Chinbeis's GitHub stats](https://github-readme-stats.vercel.app/api?username=chinbeis&show_icons=true&theme=tokyonight)  
+- Built the full real-time chat system using **Socket.IO** and **NATS**
+- Designed a **multi-tenant architecture** used by **100+ companies**
+- Processing **10,000+ messages** across platforms
+- Integrated multiple messaging platforms:
+  - WhatsApp Business API  
+  - Facebook Messenger & Instagram (Meta APIs)
+  - Telegram Bot API  
+  - LINE Business  
+  - Viber (partner-level integration)
+- Implemented webhook handling, message syncing, delivery/read status
+- Built media handling for images and file attachments
+- Core application built with **Next.js (App Router) + TypeScript**
+- Webhook and messaging services built with **Hono**
+- Used **Meta Graph API (GraphQL)** to fetch sender and conversation data
+- Dockerized services and prepared production-ready Docker configs
 
-## 🌍 Let's Connect!  
-- 🔗 [GitHub](https://github.com/chinbeis)  
-- 📧 chinbeis0705@gmail.com  
+Outside of messaging, I’ve also worked on:
 
-🚀 **Open to remote opportunities in the US, Europe, and globally!**  
+- A full-stack corporate web platform (Next.js + TypeScript)
+- Telephony features using **Asterisk**, including call routing and automation
+- Parts of a **Web3 / NFT trading platform**, mainly on the web and integration side
+
+---
+
+### Founder & Developer @ Usuh Agency
+
+Before joining Onlime, I ran a small agency and built websites for local businesses.
+
+- Delivered **30+ custom websites** from scratch
+- Focused on performance, SEO, and clean responsive layouts
+- Handled everything from client communication to deployment and maintenance
+- Worked across different stacks depending on project needs
+
+---
+
+## Tech I use regularly
+
+- **Languages**: TypeScript, JavaScript, Go, PHP, Python  
+- **Frontend**: React, Next.js  
+- **Backend**: Node.js, Hono, Django  
+- **Real-Time / Messaging**: WebSockets, Socket.IO, NATS, Webhooks  
+- **APIs**: REST, GraphQL, OAuth, Meta Graph API  
+- **Databases**: PostgreSQL, MongoDB, MySQL  
+- **Other**: Docker, Asterisk, event-driven systems, multi-tenant architecture
+
+---
+
+## GitHub stats
+
+![Chinbeis's GitHub stats](https://github-readme-stats.vercel.app/api?username=chinbeis&show_icons=true&theme=tokyonight)
+
+---
+
+## Contact
+
+- GitHub: https://github.com/chinbeis  
+- LinkedIn: https://www.linkedin.com/in/chinbeis-zolsaikhan-404b81221/  
+- Email: chinbeis0705@gmail.com  
+
+Open to **remote roles** (EU / US / APAC), especially backend-heavy, real-time, or platform-focused work.
